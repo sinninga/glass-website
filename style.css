@@ -40,3 +40,15 @@ main {
     bottom: 5%;
     left: 10%;
 }
+
+.adam {
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+}
+
+.card-img {
+    height: 4rem;
+    width: 4rem;    
+    border-radius: 50%;
+}
