@@ -103,7 +103,8 @@ main {
 }
 
 .games {
-    flex: 2;
+    flex: 3;
+    min-width: 30%;
 }
 
 .pro {
