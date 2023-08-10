@@ -102,10 +102,6 @@ main {
     padding: 0rem 2rem;
 }
 
-.link h2:hover {
-    color: white;
-}
-
 .link img {
     height: 2rem;
     width: 2rem;
@@ -179,6 +175,7 @@ main {
     padding: 2rem;
     box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.2);
     justify-content: space-between;
+    align-items: center;
 }
 
 .card:hover {
@@ -217,7 +214,7 @@ main {
     -webkit-text-fill-color: transparent;
 }
 
-@media screen and (max-width: 1700px) {
+@media screen and (max-width: 1500px) {
     .glass {
         flex-direction: column; 
         border-radius: 0%;
@@ -225,7 +222,7 @@ main {
     }
 }
 
-@media screen and (max-width: 1700px) {
+@media screen and (max-width: 1500px) {
     .dashboard {
         flex-direction: column; 
         border-radius: 0%;
@@ -233,7 +230,13 @@ main {
     }
 }
 
-@media screen and (max-width: 1700px) {
+@media screen and (max-width: 1500px) {
+    .status {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1500px) {
     .status {
         width: 100%;
     }
@@ -257,4 +260,6 @@ main {
         text-align: center;
     }
 }
+
+
 
