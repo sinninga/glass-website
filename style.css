@@ -65,7 +65,7 @@ main {
 .adam {
     height: 5rem;
     width: 5rem;
-    border-radius: 50%;
+    border-radius: 51%;
     box-shadow: 6px 6px 10px rgba(29, 28, 28, 0.2);
 }
 
