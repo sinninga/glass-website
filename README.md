@@ -15,4 +15,4 @@ A responsive, user-friendly design with an innovative theme for a travel website
 
 **Setup**
 -
-visit https://sinninga.github.io/glass-website
+Visit https://sinninga.github.io/glass-website
