@@ -1,6 +1,6 @@
 **Icicle**
 -
-A responsive, user-friendly design with an innovative theme for a travel website dashboard.
+A responsive, user-friendly design with an innovative theme for a travel website dashboard
 ![Screenshot from 2023-08-05 16-54-25](https://github.com/sinninga/glass-website/assets/36636887/c2753c24-6953-4de8-886b-bf42e758004f)
 
 **Built With**
@@ -15,4 +15,4 @@ A responsive, user-friendly design with an innovative theme for a travel website
 
 **Setup**
 -
-Visit https://sinninga.github.io/glass-website
+Visit: https://sinninga.github.io/glass-website
